@@ -16,7 +16,7 @@ text-align:center;}
   margin: 0 auto;
 }.
 box {
-  background-image: url(file.jpg);
+  background-image: url(images/photo.jpeg);
   width: 100px;
   height: 100px;
 }
