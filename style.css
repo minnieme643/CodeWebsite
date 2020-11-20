@@ -14,11 +14,10 @@ text-align:center;}
 }.container {
   max-width: 1000px;
   margin: 0 auto;
-}.
-box {
+}
+body {
   background-image: url(images/photo.jpeg);
-  width: 100px;
-  height: 100px;
+
 }
 .banner {
   height: 350px;
