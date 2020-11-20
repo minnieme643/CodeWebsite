@@ -9,4 +9,18 @@ text-align:center;}
 
 .container {
   max-width: 1000px;
+}div {
+  margin: 0 auto;
+}.container {
+  max-width: 1000px;
+  margin: 0 auto;
+}.
+box {
+  background-image: url(file.jpg);
+  width: 100px;
+  height: 100px;
+}
+.banner {
+  height: 350px;
+  background-image: url(images/banner.jpg);
 }
